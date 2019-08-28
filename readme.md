@@ -1,14 +1,24 @@
 # Fabi Importaciones - Market place
 
 ## ¿Qué es Fabi importaciones?
+
 Fabi Importaciones, que se dedica a importar desde China productos como maquillaje, ropa, productos para el hogar, útiles escolares, etc.
 
 ![58032217-c43ee100-7ae7-11e9-82e8-66112ee1d662](https://user-images.githubusercontent.com/47751532/63555041-13404c00-c505-11e9-981d-33ed7d3f828e.jpg)
+
+## El plus de Fabi Importaciones
+
+Laas socias Joselyn Fabian y Leslie Fabian hacen transmiones en vivo vía facebook probando sus productos ellas mismas, esto genera confianza a sus clientas y también es una manera de fidelizarlas.
+
+![transmision](https://user-images.githubusercontent.com/47751532/63887138-c09dde80-c9a1-11e9-8ca3-21474ade9aed.PNG)
 
 
 ## Descubrimiento e investigación
 
 ### Entrevistas a cliente y usuarios
+
+Desde el inicio de nuestro proceso de investigación e implementación mantuvimos constante comunicación con Joselyn Fabian, socia de Fabi Importaciones. Nos reunimos con ella para realizarle una entrevista con la finalidad de conocer más sobre su emprendimiento, cuáles son sus objetivos principales y sus planes a largo plazo. También nos brindo números de sus clientas más potenciales y con más cercanía a ella, para poder realizarles una entrevista.
+
 ![IMG-20190520-WA0044](https://user-images.githubusercontent.com/47751532/63555069-26531c00-c505-11e9-929b-13afdf951776.jpg)
 
 ## Síntesis
@@ -16,7 +26,16 @@ Fabi Importaciones, que se dedica a importar desde China productos como maquilla
 
 ![61885458_376410663007673_4176888109478182912_n](https://user-images.githubusercontent.com/47751532/63555095-3e2aa000-c505-11e9-956e-1053e6269fe7.jpg)
 
+### Insights
+Empleamos la técnica del Affinity Map para identificar patrones, agruparlos y así conocer más a profundidad las percepciones de nuestros usuarios:
+    * Los usuarios les interesa saber cual es el horario d elas transmisiones en vivo.
+    * Los usuarios quieren que los productos esten categorizados para saber en donde buscar lo que quieren.
+    * Necesitan un medio de pago seguro y que acepte todas las tarjetas.
+    * Les encanta las ofertas por tanto es lo que quieren ver primero.
+
 ### User persona
+
+Con las entrevistas y Affinity Map, logramos identificar a dos User Persona: el primario es Carolina, mientras que María Fernanda es la secundaria.
 
 #### User primario
 ![User-primario](https://user-images.githubusercontent.com/47751532/63555114-4c78bc00-c505-11e9-9465-cda50566a3d5.jpg)
@@ -26,6 +45,8 @@ Fabi Importaciones, que se dedica a importar desde China productos como maquilla
 ![User-secundario](https://user-images.githubusercontent.com/47751532/63555116-4c78bc00-c505-11e9-8b5f-e7f6939161e6.jpg)
 
 ### Costumer journey map
+
+![journey](https://user-images.githubusercontent.com/47751532/63886194-8af7f600-c99f-11e9-8cc5-62d9f5102754.PNG)
 
 ## Prototipado
 
@@ -42,5 +63,9 @@ Fabi Importaciones, que se dedica a importar desde China productos como maquilla
 ![Resumen-Compra](https://user-images.githubusercontent.com/47751532/63554735-0f5ffa00-c504-11e9-8feb-931f89169f1f.jpg)
 ![Pago](https://user-images.githubusercontent.com/47751532/63554733-0ec76380-c504-11e9-8a87-409936c7a6d6.jpg)
 ![Mensaje-Final](https://user-images.githubusercontent.com/47751532/63554732-0ec76380-c504-11e9-8f2a-e63009b12077.jpg)
+
+## Testeo
+
+![testeo](https://user-images.githubusercontent.com/47751532/63887011-6866dc80-c9a1-11e9-8b8c-b18a9c692c91.PNG)
 
 
